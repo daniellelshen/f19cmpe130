@@ -8,6 +8,7 @@ class Test_UF(object):
 
     def test_one(self):
         pass
+
     def test_two(self):
         expected = (1, 2, 3)
         actual = (1, 2, 3)
